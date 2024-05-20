@@ -1,1 +1,12 @@
+res://Scenes/platform.tscn
 res://Scenes/game.tscn
+res://Scenes/player.tscn
+res://Scenes/coin.tscn
+res://Scripts/coin.gd
+res://Scripts/killzone.gd
+res://Scenes/killzone.tscn
+res://Scenes/purple_slime.tscn
+res://Scripts/purple_slime.gd
+res://Scripts/player.gd
+res://Scripts/game_manager.gd
+res://default_bus_layout.tres
